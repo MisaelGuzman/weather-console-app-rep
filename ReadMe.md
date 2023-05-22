@@ -1,11 +1,11 @@
 # Information
 
-Apis Here:
+Apis Here <3 :
 
-Geocoding Api: 
+-> Geocoding Api: 
 https://docs.mapbox.com/api/search/geocoding/
 
-Weather Api:
+-> Weather Api:
 https://openweathermap.org/current
 
 
